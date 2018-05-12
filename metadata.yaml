@@ -1,0 +1,26 @@
+_repo: Monks-Popes-and-their-Political-Intrigues_37693
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alberger, John
+    gutenberg_agent_id: '38994'
+    url: http://www.gutenberg.org/2009/agents/38994
+description: ''
+gutenberg_issued: '2011-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37693'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholic Church -- United States'
+- !lcsh 'Catholic Church'
+- !lcc 'BX'
+- !lcsh 'Church and state'
+title: Monks, Popes, and their Political Intrigues
+url: http://www.gutenberg.org/ebooks/37693
